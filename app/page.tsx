@@ -2696,7 +2696,6 @@ const Navbar = () => {
           >
             <IconMenu />
           </button>
-          <h1 className="text-lg font-semibold">MonitorPro</h1>
         </div>
         <div className="flex items-center gap-3">
           <button
